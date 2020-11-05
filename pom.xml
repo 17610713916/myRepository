@@ -134,6 +134,17 @@
       <artifactId>fastjson</artifactId>
       <version>1.2.60</version>
     </dependency>
+<!--    <dependency>-->
+<!--      <groupId>org.apache.kafka</groupId>-->
+<!--      <artifactId>kafka_2.12</artifactId>-->
+<!--    </dependency>-->
+
+      <dependency>
+          <groupId>org.apache.kafka</groupId>
+          <artifactId>kafka-clients</artifactId>
+          <version>0.10.0.1</version>
+      </dependency>
+
 
   </dependencies>
 
